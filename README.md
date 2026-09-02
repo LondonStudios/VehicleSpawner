@@ -1,6 +1,25 @@
-![London Studios](https://i.ibb.co/1mwSS1q/Untitled-design.png)
+[![Vehicle Spawner](https://img.londonstudios.net/vehicle-spawner/VehicleSpawner1.png)](https://store.londonstudios.net/package/vehicle-spawner)
+
+# This resource has been replaced
+
+You are looking at the original Vehicle Spawner from 2020. It still works, but it is **no longer supported or updated by us**, and it has been replaced by a completely rebuilt version.
+
+The new **Vehicle Spawner** does everything this one did and a great deal more:
+
+- **Build your menu in-game** - Add, rename, reorder, move and delete categories and vehicles from inside the game. No text files to edit and no server restarts.
+- **Decide who sees what** - Lock a whole category, a sub-category or a single vehicle to a job or group using Ace Permissions, ESX, QBCore, QBX or vRP. Police get their fleet, fire get theirs.
+- **Nothing spawns that you have not approved** - Every spawn is checked on the server, so players cannot pull models that are not in your menu.
+- **Search, favourites and recent spawns** - Find anything by name, model, tag or category, and let everyone keep their own shortlist.
+- **Set each vehicle up properly** - Plates, liveries, extras, tags, descriptions and images per vehicle.
+- **Vehicle keys** - Keys are handed over as soon as the vehicle appears, with support for 13 key and garage scripts.
+- **Backups** - Every save keeps a snapshot you can load again if you change your mind.
+
+### Get it here for £9.99 GBP: https://store.londonstudios.net/package/vehicle-spawner
+
+It is also included in our Full Access subscription: https://store.londonstudios.net/category/subscriptions
 
 # London Studios - Update
+
 Since forming London Studios in April 2020 we've created a number of **high quality** and **premium** resources for the FiveM project, focusing on the emergency services and aiming to bring your server to the next level.
 
 Although we made a number of free resources such as this one in the first year, we've now switched to creating paid content, keeping them constantly updated and working along with providing the best possible support to our customers.
@@ -12,9 +31,11 @@ With **thousands** of **happy customers** we are confident you'll love our resou
 # Our store: https://store.londonstudios.net/github
 # Our discord: https://discord.gg/nC2krpN
 
-Therefore, this resource is now likely *out of date* and is *no longer supported by us*. The full source code is available should you wish to make any changes. All of our paid resources however are constantly updated and we invite you to take a look!
+The full source code of this old version is still available below should you wish to make any changes to it yourself.
 
-# VehicleSpawner - London Studios
+---
+
+# VehicleSpawner (2020) - London Studios
 **VehicleSpawner** is a **FiveM** resource coded in **C#** allowing you to create a custom vehicle spawner menu with categories and the ability to mark a vehicle "out of service", locking it from being spawned.
 
 This plugin is made by **LondonStudios**, we have created a variety of releases including TaserFramework, SearchHandler, ActivateAlarm, SmartTester, SmartSounds, CustodyAlarm, SmartObservations and more!
@@ -63,11 +84,8 @@ All categories must start with [Category Name] on a new line.
 ## Source Code
 Please find the source code in the **"src"** folder. Please ensure you follow the licence in **"LICENCE.md"**.
 
-## Feedback
-We appreciate feedback, bugs and suggestions related to VehicleSpawner and future plugins. We hope you enjoy using the resource and look forward to hearing from people!
-
 ## Screenshots
-Take a look at some screenshots of the plugin in action!
+Take a look at some screenshots of the old plugin in action!
 
 ![VehicleSpawner](https://i.imgur.com/REgtP6X.png)
 
